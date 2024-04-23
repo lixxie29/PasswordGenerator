@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldNkFP1gc06Kk3YW6QGTp9+D3WA1JV6Gu0wBOpEzvon2W/sam1KlhjTGsB95TjobjiVAXgM2yDoQCqIGBkYFpA==",
+  "success": true,
+  "projectFilePath": "/Users/lixxeil/code_crafters/PasswordGenerator/frontend/frontend.csproj",
+  "expectedPackageFiles": [
+    "/Users/lixxeil/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/lixxeil/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/lixxeil/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
