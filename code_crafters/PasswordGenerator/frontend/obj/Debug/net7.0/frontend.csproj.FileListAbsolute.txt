@@ -1,6 +1,0 @@
-/Users/lixxeil/code_crafters/PasswordGenerator/frontend/obj/Debug/net7.0/frontend.GeneratedMSBuildEditorConfig.editorconfig
-/Users/lixxeil/code_crafters/PasswordGenerator/frontend/obj/Debug/net7.0/frontend.AssemblyInfoInputs.cache
-/Users/lixxeil/code_crafters/PasswordGenerator/frontend/obj/Debug/net7.0/frontend.AssemblyInfo.cs
-/Users/lixxeil/code_crafters/PasswordGenerator/frontend/obj/Debug/net7.0/frontend.csproj.CoreCompileInputs.cache
-/Users/lixxeil/code_crafters/PasswordGenerator/frontend/obj/Debug/net7.0/frontend.MvcApplicationPartsAssemblyInfo.cache
-/Users/lixxeil/code_crafters/PasswordGenerator/frontend/obj/Debug/net7.0/frontend.sourcelink.json
